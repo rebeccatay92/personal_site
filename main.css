@@ -1,0 +1,62 @@
+
+h1 {
+	font-size: 60px;
+}
+
+h2 {
+	font-size: 30px;
+}
+
+p {
+	font-size: 28px;
+}
+
+.landing {
+	background-image: url("images/macbook.jpg");
+	background-size: cover;
+	height: 100vh;
+	background-attachment: fixed;
+}
+
+.name {
+	color: white;
+	text-align: center;
+	padding: 250px 0 250px 0;
+}
+
+.about {
+	background-image: url("images/wood.jpg");
+	background-size: cover;
+	text-align: center;
+	height: 70vh;
+	padding: 20px;
+}
+
+button {
+  border: none;
+  background: none;
+}
+
+a img {
+	height: 100px;
+	width: 100px;
+	border-radius: 50%;
+}
+
+.portfolio {
+	background-image: url("images/rustic_wood.jpg");
+	background-size: cover;
+	text-align: center;
+	color: white;
+	height: 95vh;
+}
+
+.portfolio img {
+	margin: 10px;
+}
+
+.footer {
+	background-color: black;
+	color: gray;
+	padding-bottom: 5px;
+}
